@@ -8,8 +8,8 @@ This project is a Next.js-based chatbot conversation app where two AI chatbots i
 - Go to GitHub and create a new public repository.
 - Clone the repository:
   ```sh
-  git clone <repository_url>
-  cd <repository_name>
+  https://github.com/Aziz-Rashid/LLM-self-engagement.git
+  cd LLM-self-engagement
   ```
 
 ### 2. Install Dependencies
